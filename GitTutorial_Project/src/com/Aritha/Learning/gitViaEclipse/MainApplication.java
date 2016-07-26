@@ -7,7 +7,7 @@ public class MainApplication {
 		System.out.println("Hello World");
 		System.out.println("Hello World, We meet Here");
 		
-		AgileGreetingClass AglGreeting = new AgileGreetingClass("Hello Agile World!");
+		AgileGreetingClass AglGreeting = new AgileGreetingClass("Hello Agile Universe!");
 		AglGreeting.printAgileGreetingMsg();
 	}
 
